@@ -1,0 +1,16 @@
+
+
+.containerNavbar{
+    display: flex;
+    gap: 7rem;
+    justify-content: center;
+}
+
+
+.categorias{
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+    justify-content: space-around;
+    align-items: last baseline;
+}
